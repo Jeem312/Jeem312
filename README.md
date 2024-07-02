@@ -28,7 +28,7 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeem312&theme=algolia&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Jeem312&theme=algolia&hide_border=true" />
 </p>
 
 ## :page_facing_up:Languages
