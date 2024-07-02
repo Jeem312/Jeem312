@@ -22,7 +22,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeem312&show_icons=true&locale=en&layout=compact" alt="jeem312" /></p>
+
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
