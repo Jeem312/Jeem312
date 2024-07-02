@@ -32,4 +32,4 @@
 </p>
 
 ## :page_facing_up:Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeem312&layout=donut" alt="jeem312" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeem312&layout=donut" alt="jeem312" /></p>
