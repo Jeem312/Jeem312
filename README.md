@@ -5,10 +5,9 @@
 
 
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-## :About Me:
-<br />
+
+
 <h1 align="center">Hi 👋, I'm Shanjida Jahan Jeem</h1>
 <h3 align="center">A passionate 👩‍💻 Developer | 🌟 Passionate about coding | 📚 Always learning frontend developer from Bangladesh</h3>
 
