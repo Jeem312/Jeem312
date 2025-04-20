@@ -1,5 +1,5 @@
 
-<img src="[https://i.ibb.co/K06jCkK/futurism-perspective-digital-nomads-lifestyle.jpg](https://i.ibb.co/kg702JN5/025b67f6-bf5a-4ef2-bf99-8e6ca37ecdbb.webp)" />
+<img src="https://i.ibb.co/kg702JN5/025b67f6-bf5a-4ef2-bf99-8e6ca37ecdbb.webp" />
 
 
 
@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shanjida Jahan Jeem</h1>
-<h3 align="center">A passionate 👩‍💻 Developer | 🌟 Passionate about coding | 📚 Always learning frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate 👩‍💻 Developer | 🌟 Passionate about coding | 📚 Always learning  developer from Bangladesh</h3>
 
 ## :computer: Technologies that I know
 <br />
