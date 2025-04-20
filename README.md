@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/K06jCkK/futurism-perspective-digital-nomads-lifestyle.jpg" />
+<img src="[https://i.ibb.co/K06jCkK/futurism-perspective-digital-nomads-lifestyle.jpg](https://i.ibb.co/kg702JN5/025b67f6-bf5a-4ef2-bf99-8e6ca37ecdbb.webp)" />
 
 
 
